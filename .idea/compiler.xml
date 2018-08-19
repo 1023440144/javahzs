@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="javahzs-common" />
+        <module name="javahzs-manager-dao" />
+        <module name="javahzs-manager-interface" />
+        <module name="javahzs-manager-pojo" />
+        <module name="javahzs-manager-service" />
+        <module name="javahzs-manager-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
